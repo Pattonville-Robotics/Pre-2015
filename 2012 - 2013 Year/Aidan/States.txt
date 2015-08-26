@@ -1,0 +1,5 @@
+1. Go forward distance or ttime1
+2. Follow IR until:
+	a. Bumper is pressed
+	b. IR value changes
+3.
